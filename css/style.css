@@ -238,3 +238,6 @@ a{
 section{
     margin: 0px;
 }
+html {
+    scroll-behavior: smooth;
+}
